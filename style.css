@@ -1,0 +1,140 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+ margin: 0;
+}
+p{
+    text-align: justify;
+}
+
+.main-headline{
+    font-size: 57px;
+    font-family: 'Yeseva One', cursive;
+    border-left:5px solid rgb(235, 73, 14);
+    height: 122px;
+    border-radius:5px; 
+    padding-left: 20px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color:rgb(238, 75, 0);
+    border-radius: 5px;
+    text-align:center;
+    padding: 10px 30px;
+}
+.special{
+    color: coral;
+}
+.stay{
+    width:50%; 
+}
+.focused{
+    display: flex;
+    margin-top:20px;
+    margin-left:60px;
+    padding: 60px;
+}
+div img{
+    height: 400px;
+    width: 400px;
+    padding-left: 80px;
+}
+.headline{
+    font-size: 50px;
+    text-align: center;
+}
+.second-sec{
+    display: flex;
+    margin-top:40px;
+    margin-left:100px;
+    margin-right: 100px;
+}
+.mission{
+    height: 350px;
+    width: 30%;
+    padding: 30px;
+    border:2px ;
+    border-radius: 30px;
+    margin: 20px;
+    background-color: rgb(234, 246, 246); 
+}
+.mission img{
+    height: 100px;
+    width: 150px;
+}
+.vission{
+    background-color: rgb(248, 219, 226);
+}
+.goals{
+    background-color:#FFF4D6;
+}
+.topic{
+    font-size: 40px;
+    width: 300px;  
+}
+.develop{
+   
+    border:1px;
+    margin-left:80px;
+    padding-top:20px;
+}
+.codding{
+    background-image: url("images/shapes/shape-1.png");
+    background-position:left;
+    width: 40%; 
+    background-size:210px;
+    background-repeat: no-repeat;
+}
+.global{
+    width: 50%;
+}
+.project{
+    width: 40%;
+}
+.back{
+    background-image: url("images/shapes/shape-1.png");
+    background-position:right bottom; 
+    background-size:210px;
+    background-repeat: no-repeat;
+
+}
+.contact-sec{
+background-image: url("images/shapes/background\ image.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+margin-right: 50px;
+margin-top: 80px;
+}
+input{
+    height: 20px;
+    width: 300px;
+    padding: 2px;
+}
+
+.comment{
+    height: 80px;
+}
+.contact{
+    padding-left: 200px;
+}
+.contact-image{
+    padding-top: 30px;
+
+}
+#foot{
+    color: royalblue;
+}
+.last{
+    font-size: 30px;
+    font-family:monospace;
+    font-style: italic;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(22, 22, 51);
+    margin-top: 100px;
+    height: 150px;
+    padding-top: 50px;
+}
