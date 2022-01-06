@@ -60,8 +60,9 @@ div img{
     background-color: rgb(234, 246, 246); 
 }
 .mission img{
-    height: 100px;
+    height: 150px;
     width: 150px;
+    padding-left:0px;
 }
 .vission{
     background-color: rgb(248, 219, 226);
